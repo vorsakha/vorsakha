@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m probably working on a project right now
+- 🔭 I’m probably working on some project right now
 - 🌱 Currently working with React and respective React-based frameworks
 
 Author of NPM Package / Gatsby Plugin: [Beast Modal](https://www.npmjs.com/package/@tsaristbomba/gatsby-plugin-beast-modal)
